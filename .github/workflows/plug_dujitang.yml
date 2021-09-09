@@ -1,6 +1,6 @@
 name: '毒鸡汤'
 
-on:
+on: 
   watch:
     types: [started]
   schedule:
