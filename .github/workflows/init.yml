@@ -1,6 +1,6 @@
 name: 'GeekBot'
 
-on:
+on: 
   push:
   pull_request:
   watch:
