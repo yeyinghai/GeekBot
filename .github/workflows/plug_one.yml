@@ -1,6 +1,6 @@
 name: '一个图文ONE'
 
-on:
+on: 
   watch:
     types: [started]
   schedule:
