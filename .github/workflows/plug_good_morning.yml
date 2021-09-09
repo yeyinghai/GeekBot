@@ -1,6 +1,6 @@
 name: '早安心语'
 
-on:
+on: 
   watch:
     types: [started]
   schedule:
