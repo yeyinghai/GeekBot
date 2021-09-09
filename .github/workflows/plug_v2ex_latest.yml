@@ -1,6 +1,6 @@
 name: 'v2ex每日最新主题'
 
-on:
+on: 
   watch:
     types: [started]
   schedule:
